@@ -3,10 +3,9 @@
 >This is one of the coursework project to monitor student performance from their online test result.
 
 ## CW1
-In CW1, I have cleaned the data and created a database for later.
-
+In CW1, a Python program to clean, format and store data in order to create an SQLite database for a student monitoring system.
 ## CW2
-In CW2, there are several program to monitor different student performance
+In CW2, there are several modules to monitor different student performance.
 
 - Menu
   > A python main program which provides the required menu options to users for the program functionalities.
