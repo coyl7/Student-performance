@@ -1,4 +1,4 @@
-# Student performance program
+# Student performance application
 
 >This is one of the coursework project to monitor student performance from their online test result.
 
